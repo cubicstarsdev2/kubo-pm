@@ -1,0 +1,12 @@
+{
+  "Packages": {
+    "TestPkg": {
+      "Name": "TestPkg",
+      "Version": "1.0",
+      "Description": "X",
+      "Dependencies": [],
+      "DownloadUrl": "https://github.com/cubicstarsdev2/kubo-pm/raw/main/packages/TestPkg-1.0.dll"
+    }
+  },
+  "Pipelines": {}
+}
