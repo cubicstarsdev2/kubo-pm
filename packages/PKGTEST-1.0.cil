@@ -1,7 +1,0 @@
-.class MyClass
-{
-    .function Hello()
-    {
-        println "Hello world!"
-    }
-}
