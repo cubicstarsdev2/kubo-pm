@@ -1,12 +1,21 @@
 {
-  "Packages": {
-    "PKGTEST": {
-      "Name": "PKGTEST",
+  "Packages": [
+    {
+      "Name": "TestPkg",
       "Version": "1.0",
-      "Description": "This is a test package for Kubo PM.",
+      "Description": "This is a test package.",
       "Dependencies": [],
-      "DownloadUrl": "https://github.com/cubicstarsdev2/kubo-pm/raw/main/packages/PKGTEST-1.0.cil"
+      "DownloadUrl": "https://downloadurl.com",
+      "PasswordHash": "asdknjlasdlkjladpip123019wdkaslkjdlakskjnfe"
     }
-  },
-  "Pipelines": {}
+  ],
+  "Pipelines": [
+    {
+      "Name": "TestPipe",
+      "Version": "1.0",
+      "Description": "This is a test pipeline.",
+      "DownloadUrl": "https://downloadpipeurl.com",
+      "PasswordHash": "sdhkajdkjasndknmogemriojk1oi231290235"
+    }
+  ]
 }
