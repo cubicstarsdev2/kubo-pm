@@ -1,0 +1,22 @@
+Folder
+    |_ project.json
+    |_ registry.json
+    |_ program.cx
+    |_ packages
+        |_ (more .cx files)
+    |_ pipelines
+        |_ (dlls)
+    |_ assets
+        |_ (Unity valid assets)
+
+into this one
+
+.Zip file
+    |_ project.json
+    |_ registry.json
+    |_ program.cx
+    |_ packages
+        |_ (same here)
+    |_ pipelines
+        |_ (same here)
+    |_ assets.bundle
