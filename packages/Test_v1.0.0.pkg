@@ -1,0 +1,6 @@
+.import PKGTEST
+
+ralloc 1
+
+new MyClass : r0
+call MyClass::Hello
