@@ -1,12 +1,4 @@
 {
-  "Packages": [
-    {
-      "Dependencies": [],
-      "Name": "MyPackage",
-      "Version": "1.0.0",
-      "Description": "d",
-      "PasswordHash": "a5c3dd48facf21ed5f916d0ae979091fead570e6aea6c1d8038d1f68b26fa51f"
-    }
-  ],
+  "Packages": [],
   "Pipelines": []
 }
